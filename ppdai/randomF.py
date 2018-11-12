@@ -266,5 +266,6 @@ def main():
 
 
 if __name__ == "__main__":
+
     on_hit = False
     main()
